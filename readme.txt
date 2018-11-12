@@ -4,3 +4,4 @@ Git has a mutable index called stage. ztz
 Creating a new branch is quick.
 mydev work!
 mymask work!
+myfeature work!
